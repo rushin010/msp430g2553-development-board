@@ -1,0 +1,1 @@
+This project contains libraries for motor control, sensor reading, and wireless communication for the msp430g2553 using our development board. These libraries help decrease the programming complexity associated with this device.
